@@ -14,6 +14,7 @@ class WordList:
         --------------
         w o r d l i s t
         ------------aze
+GitHub:https://github.com/testere-development/WordList
         \033[0m"""
         
         print(self.logo)
